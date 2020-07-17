@@ -1,4 +1,4 @@
-# Awesome React Query [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Awesome React Query [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ![awesome-react-query](https://github.com/Buuntu/awesome-react-query/workflows/awesome-react-query/badge.svg)
 
 - [React Query](https://github.com/tannerlinsley/react-query)
   - [Dev Tools](https://github.com/tannerlinsley/react-query-devtools)
@@ -28,4 +28,5 @@
 - [Getting Started with React Query](https://dev.to/vincenius/getting-started-with-react-query-easy-server-state-management-in-react-536l)
 
 ## Videos
+
 - [It's Time to Breakup with your Global State](https://youtu.be/seU46c6Jz7E)
