@@ -1,4 +1,4 @@
-name: awesome-react-query
+name: lint
 
 on:
   push:
