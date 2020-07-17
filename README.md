@@ -29,4 +29,4 @@
 
 ## Videos
 
-- [It's Time to Breakup with your Global State](https://youtu.be/seU46c6Jz7E)
+- [It's Time to Breakup with your Global State](https://www.youtube.com/watch?v=seU46c6Jz7E)
