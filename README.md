@@ -16,6 +16,7 @@
 ## Packages
 
 - [react-query-navigation-native](https://github.com/cherniavskii/react-query-navigation-native)
+- [react-query-native-devtools](https://github.com/bgaleotti/react-query-native-devtools)
 
 ## Testing
 
