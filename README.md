@@ -13,6 +13,10 @@
 - [Official Examples](https://github.com/tannerlinsley/react-query/tree/master/examples)
 - [Simple Demo](https://github.com/wwebdev/react-query-demo)
 
+## Packages
+
+- [react-query-navigation-native](https://github.com/cherniavskii/react-query-navigation-native)
+
 ## Testing
 
 - [Cypress Example](https://github.com/bahmutov/react-query-example)
