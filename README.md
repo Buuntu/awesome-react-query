@@ -5,7 +5,7 @@
   - [Documentation](https://react-query.tanstack.com/)
   - [Discussions](https://github.com/tannerlinsley/react-query/discussions)
 
-## Example Applications
+## Applications
 
 - [Bookshelf App](https://github.com/kentcdodds/bookshelf)
 - [Blog Example](https://github.com/tannerlinsley/react-query-blog-refactor-example)
@@ -13,7 +13,12 @@
 - [React State Demo](https://github.com/coryhouse/react-state-demo)
 - [Create React App Example](https://github.com/hyanmandian/cra-template-hyan)
 - [Official Library Examples](https://github.com/tannerlinsley/react-query/tree/master/examples)
-- [Simple Demo](https://github.com/wwebdev/react-query-demo)
+- [Hedgehog Lab: A Scientific Computation Tool](https://github.com/lidangzzz/hedgehog-lab)
+- [Yet Another Clash Dasbhoard](https://github.com/haishanh/yacd)
+- [Synthetix Exchange](https://github.com/Synthetixio/synthetix-exchange)
+- [Hacker Tab Extension](https://github.com/huchenme/hacker-tab-extension)
+- [Hour Power](https://github.com/brentvatne/hour-power)
+- [Rainbow: Ethereum Wallet](https://github.com/rainbow-me/rainbow)
 
 ## Packages
 
