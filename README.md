@@ -4,6 +4,7 @@
   - [Dev Tools](https://github.com/tannerlinsley/react-query-devtools)
   - [Documentation](https://react-query.tanstack.com/)
   - [Discussions](https://github.com/tannerlinsley/react-query/discussions)
+  - [React Query Essentials Source Code](https://github.com/tannerlinsley/react-query-essentials)
 
 ## Applications
 
