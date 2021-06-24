@@ -25,7 +25,7 @@
 
 - [react-query-navigation-native](https://github.com/cherniavskii/react-query-navigation-native)
 - [react-query-native-devtools](https://github.com/bgaleotti/react-query-native-devtools)
-
+- [react-query-auth](https://github.com/alan2207/react-query-auth)
 ## Testing
 
 - [Cypress Example](https://github.com/bahmutov/react-query-example)
@@ -34,6 +34,7 @@
 
 - [Why I Stopped Using Redux](https://dev.to/g_abud/why-i-quit-redux-1knl)
 - [Getting Started with React Query](https://dev.to/vincenius/getting-started-with-react-query-easy-server-state-management-in-react-536l)
+- [Tkdodo's react-query article series](https://tkdodo.eu/blog/tags/react-query)
 
 ## Videos
 
